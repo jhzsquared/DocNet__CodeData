@@ -5,9 +5,11 @@ For the BASIL dataset see: https://github.com/launchnlp/BASIL
 
 ## Contents
 * data/\*.pkl: news articles for each topic
-* inductive_pipeline.py  and inductive_pipeline_basil.py: pipeline for experimenting across embedding configurations 
+* data/datasheet.md: Background on data
+* inductive_pipeline.py  and inductive_pipeline_basil.py: pipeline for experimenting across embedding configurations
 * Document-level Bias by LLM.ipynb: notebook for LLM bias detection
-* newsnet_utils.py: functions for cleaning up the data
+* process_data.py: functions for cleaning the data
+* newsnet_utils.py: functions for creating the document networks
 * analysis_utils.py: functions for varying embedding configurations
 * run_gcngae.py: functions for creatting autoencoder models (with GCN encoder)
 
@@ -18,3 +20,4 @@ For the BASIL dataset see: https://github.com/launchnlp/BASIL
 
 ## License
 This source code is licensed under MIT License and the data files are licensed under CC0 1.0 Universal. 
+
