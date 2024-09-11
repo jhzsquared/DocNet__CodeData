@@ -2,7 +2,7 @@
 ## Motivation
 * This data was collected in support of research on understanding the media landscape during highly controversial topics
 * This data was collected by researchers affiliated with the Army Cyber Insitute at West Point
-  and supported in part by the Office of Naval Research (ONR) under Support %Agreement No. USMA 20057. 
+  and supported in part by the Office of Naval Research (ONR) under Support Agreement No. USMA 20057. 
 ## Composition
 * This data is composed of the raw news articles with unique identifiers, their associated urls, article text, the domain, 
 and the corresponding domain data labels from
