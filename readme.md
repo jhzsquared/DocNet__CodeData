@@ -1,5 +1,5 @@
 #  DocNet: Semantic Structure in Inductive Bias Detection Models
-This repository holds the raw partisan topic data and cleaned code used in the EMNLP 2024 submission "DocNet: Semantic Structure in Inductive Bias Detection Models"
+This repository holds the raw partisan topic data and cleaned code used in the 17th ACM Web Science Conference 2025 submission "DocNet: Semantic Structure in Inductive Bias Detection Models"
 
 For the BASIL dataset see: https://github.com/launchnlp/BASIL
 
@@ -21,3 +21,10 @@ For the BASIL dataset see: https://github.com/launchnlp/BASIL
 ## License
 This source code is licensed under MIT License and the data files are licensed under CC0 1.0 Universal. 
 
+## Citation
+Cite the following if our partisan topic dataset or our code is used:
+
+Jessica Zhu, Michel Cukier, and Iain Cruickshank. 2025. DocNet: Semantic
+Structure in Inductive Bias Detection Models. In Proceedings of ACM Web
+Science Conference (WEBSCI ’25). ACM, New York, NY, USA, 10 pages. https:
+//doi.org/XXXXXXX.XXXXXXX
