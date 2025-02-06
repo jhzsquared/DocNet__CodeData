@@ -22,7 +22,7 @@ For the BASIL dataset see: https://github.com/launchnlp/BASIL
 This source code is licensed under MIT License and the data files are licensed under CC0 1.0 Universal. 
 
 ## Citation
-Cite the following if our partisan topic dataset or our code is used:
+Cite the following if you use the partisan topic dataset or our code:
 
 Jessica Zhu, Michel Cukier, and Iain Cruickshank. 2025. DocNet: Semantic
 Structure in Inductive Bias Detection Models. In Proceedings of ACM Web
