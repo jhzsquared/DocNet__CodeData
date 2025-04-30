@@ -28,3 +28,5 @@ Jessica Zhu, Michel Cukier, and Iain Cruickshank. 2025. DocNet: Semantic
 Structure in Inductive Bias Detection Models. In Proceedings of ACM Web
 Science Conference (WEBSCI ’25). ACM, New York, NY, USA, 10 pages. https:
 //doi.org/XXXXXXX.XXXXXXX
+
+Arxiv Link: https://arxiv.org/abs/2406.10965
